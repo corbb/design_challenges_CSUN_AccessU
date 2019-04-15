@@ -18,5 +18,4 @@ Robust, Semantic Solutions to Modern Design Challenges
 </html>
 ```
 @[1](Let's declare the language.)
-@[2-5](You should recognize this.)
----
+@[2-4](You should recognize this.)
