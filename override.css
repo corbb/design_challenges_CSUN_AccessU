@@ -1,0 +1,17 @@
+#gp-logo {
+    width: 20%;
+    height: auto;
+}
+
+#gp-logo img {
+    width: 100%;
+    height: 100%;
+    max-height: none;
+    max-width: none;
+}
+
+.reveal section img {
+	background: transparent;
+	border: none;
+	box-shadow: none;
+}
