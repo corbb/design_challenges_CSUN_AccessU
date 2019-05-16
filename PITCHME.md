@@ -6,7 +6,7 @@ Corbb O'Connor<br>
 Christina Adams
 
 @snap[south span-50]
-[http://bit.ly/robust19](http://bit.ly/robust19)
+http://bit.ly/robust19slides
 @snapend
 
 +++
