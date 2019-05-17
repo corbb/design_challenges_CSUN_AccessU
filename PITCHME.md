@@ -1,13 +1,9 @@
-@title[Robust, Semantic Solutions to Modern Design Challenges]
-
 ## Robust, Semantic Solutions to Modern Design Challenges
 
 Corbb O'Connor<br>
-Christina Adams
+Christina Adams<br><br>
 
-@snap[south span-50]
 http://bit.ly/robust19slides
-@snapend
 
 +++
 ## The Conundrum
@@ -18,6 +14,10 @@ http://bit.ly/robust19slides
 +++
 @snap[midpoint span-100]
 @css[size-15](**When you, an accessibility professional, are handed a modern, minimalistic design…**)
+@snapend
++++
+@snap[midpoint span-100]
+@css[size-15](**We're going to look at code,<br> and I encourage you to <br>stay focused on the principles.**)
 @snapend
 +++?color=darkblue
 ## The Blog Post
@@ -210,9 +210,22 @@ http://bit.ly/robust19slides
 }
 ```
 +++
-![Basic form with text inputs and radio buttons](images/form.png)
+@snap[midpoint span-100]
+@css[size-15](**Let's talk about visual styling.**)
+@snapend
+
++++?color=DarkRed
+@snap[midpoint]
+## ERROR!
+## ERROR!
+## ERROR!
+@snapend
 +++
-![Errors are shown through red boxes that contain an exclamation mark under each form field](images/form-errors-hidden.png)
+@snap[midpoint span-100]
+@css[size-15](**OK, OK.<br>I'll stop yelling "error!"**)
+@snapend
++++
+![Basic form with text inputs and radio buttons](images/form.png)
 +++
 ![One field shows a textual error message connected to the red square with the exclamation mark](images/form-errors-shown.png)
 +++
@@ -270,7 +283,6 @@ Label is hiding:
 - Submit button, **if present**, just has an icon
 - For simplicity, we're going to assume search results are displayed on a new page
 @ulend
-
 +++
 ![Search form with only placeholder text present as the label](images/search.png)
 +++
@@ -339,7 +351,7 @@ button:hover ~ label, button:focus ~ label {
 @ul
 - Browser compatibility needs
 - One solution does not fit all scenarios
-- Strongly suggest a discussion about **dissapearing labels**
+- **Strongly suggest a discussion about dissapearing labels**
 @ulend
 
 +++
@@ -353,10 +365,11 @@ button:hover ~ label, button:focus ~ label {
 ## Let's Connect
 
 Corbb O'Connor<br>
-cooc@siteimprove.com<br>
-linkedin.com/in/corbb<br>
+[cooc@siteimprove.com](mailto:cooc@siteimprove.com)<br>
+[linkedin.com/in/corbb](https://www.linkedin.com/in/corbb)<br>
 
 Christina Adams<br>
-cada@siteimprove.com<br><br>
+[cada@siteimprove.com](mailto:cada@siteimprove.com)<br>
+[linkedin.com/in/christina-adams-developer](https://www.linkedin.com/in/christina-adams-developer)<br><br>
 Github: http://bit.ly/robust19<br>
 Slides: http://bit.ly/robust19slides
